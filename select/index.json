@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "語るなら未来を…",
+  "base_artist": "Keyakizaka46",
+  "createdAt": "2025-12-29T04:36:43.194373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "語るなら未来を…",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/01_語るなら未来を..._Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "語るなら未来を…",
+      "artist": "欅坂46",
+      "has_synced": true,
+      "path": "select/02_語るなら未来を..._欅坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "語るなら未来を…",
+      "artist": "櫻坂46",
+      "has_synced": true,
+      "path": "select/03_語るなら未来を..._櫻坂46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "語るなら未来を…",
+      "artist": "欅坂46",
+      "has_synced": true,
+      "path": "select/04_語るなら未来を..._欅坂46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "語るなら未来を…",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/05_語るなら未来を..._Keyakizaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "語るなら未来を…",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_01_語るなら未来を..._欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "語るなら未来を…",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_02_語るなら未来を..._欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "語るなら未来を…",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_03_語るなら未来を..._欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "語るなら未来を…",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_04_語るなら未来を..._欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "語るなら未来を…",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_05_語るなら未来を..._欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "語るなら未来を",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_06_語るなら未来を_欅坂46.txt"
+    }
+  ]
+}
